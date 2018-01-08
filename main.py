@@ -9,7 +9,7 @@ from cv2 import cv2
 DIR = "dataset3/"
 IMG_EXTENSION = ".jpg"
 EXPOSURE_TIME = "EXIF ExposureTime"
-L = 1
+L = 50
 
 
 def load_images_shape():
